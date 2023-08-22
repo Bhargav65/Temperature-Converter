@@ -1,2 +1,2 @@
 # Temperature Converter
-This a temperature converter page
+This is a temperature converter page
